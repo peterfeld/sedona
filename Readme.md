@@ -1,4 +1,4 @@
-# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 [travis-image]: https://travis-ci.com/htmlacademy-adaptive/1391583-pink-20.svg?branch=master
 [travis-url]: https://travis-ci.com/htmlacademy-adaptive/1391583-pink-20
